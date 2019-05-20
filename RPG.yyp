@@ -31,11 +31,27 @@
     },
     "resources": [
         {
+            "Key": "1877c6c5-1380-4e47-b53c-1e07523362a9",
+            "Value": {
+                "id": "8c3018a9-9a8d-4472-99e0-e035d3c5ad6f",
+                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1dc1b81e-3173-4053-9b31-58c29dc18ddd",
             "Value": {
                 "id": "92cbea3b-7e4a-4c87-be13-8e2c771899cb",
                 "resourcePath": "views\\1dc1b81e-3173-4053-9b31-58c29dc18ddd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "31e74ff9-9fad-4478-bedb-798c54635848",
+            "Value": {
+                "id": "cc29bf8d-6b00-4876-b690-e71f95e19a77",
+                "resourcePath": "scripts\\get_input\\get_input.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "a6646024-a514-4456-bb2b-5276330e6e28",
+            "Value": {
+                "id": "055c9a56-1ae3-40c9-b53e-290ef7dd24c0",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b3580e23-f81c-42d2-a5a8-640396985f01",
             "Value": {
                 "id": "1a969da3-9e07-49f0-bfd6-c2f6a819898d",
@@ -173,10 +197,26 @@
                 "resourcePath": "views\\d2f888a3-16fb-4c94-917a-cbce5171798a.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "d6ef5f56-7c98-4bf5-85f5-5d4a5cdf3138",
+            "Value": {
+                "id": "6f434b70-6e35-4b1f-a4c5-7d75cd56403e",
+                "resourcePath": "sprites\\spr_player_mask\\spr_player_mask.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df787499-c8a3-4094-9f01-a23027a516ac",
+            "Value": {
+                "id": "7360ebb6-ac54-4800-96a3-31d0ad25fd60",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        
+        "31e74ff9-9fad-4478-bedb-798c54635848"
     ],
     "tutorial": ""
 }
